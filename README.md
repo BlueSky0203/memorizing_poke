@@ -1,6 +1,6 @@
 # Memorizing Poke
 
-![image]()
+![image](https://github.com/BlueSky0203/memorizing_poke/blob/main/poke.png)
 
 ## Introduction
  - Matching the poke of same number (not necessary to match the color and suit)
